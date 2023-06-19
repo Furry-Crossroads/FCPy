@@ -1,0 +1,3 @@
+class FurryCrossroads:
+
+    pass
